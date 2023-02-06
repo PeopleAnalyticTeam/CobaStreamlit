@@ -1,0 +1,3 @@
+streamlit
+pickle 
+pip==22.3.1
